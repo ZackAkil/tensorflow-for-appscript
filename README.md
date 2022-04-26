@@ -7,3 +7,5 @@ in appscript
 
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+
+https://github.com/tensorflow/tfjs/issues/386
